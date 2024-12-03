@@ -4,7 +4,7 @@
  * Description: Adds a non-editable "Related Products" column to the WooCommerce product list.
  * Version: 1.0.0
  * Author: Jared Nolt
- * Text Domain: rw-editable-related-products
+ * Text Domain: related-products-column
  * related_products_view is the ACF machine name on this file. Change it to what you ACF machine name is.
  */
 
